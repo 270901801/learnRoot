@@ -1,6 +1,6 @@
 package javaRoot.collection;
 
-/**
+/**链表
  * @author hsc
  * @date 2019/8/8 - 16:41
  */
