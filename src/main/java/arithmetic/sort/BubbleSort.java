@@ -19,9 +19,11 @@ public class BubbleSort extends Sort{
                 }
             }
             if (!flag){
+                System.out.println("比较的次数："+count);
                 return;
             }
         }
+
     }
 
     @Test

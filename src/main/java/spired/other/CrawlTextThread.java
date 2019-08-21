@@ -89,12 +89,10 @@ public class CrawlTextThread extends Thread {
                 e.printStackTrace();
             }
         }
-
     }
 
     public static String FileterHtml(String str) {
         return str.replaceAll(" ", "").replaceAll("<br>", "\r\n");
-
     }
 
 }

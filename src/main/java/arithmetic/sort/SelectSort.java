@@ -19,6 +19,7 @@ public class SelectSort extends Sort{
             }
             swap(arr,minIndex,i);
         }
+        System.out.println("比较的次数："+count);
     }
 
     @Test

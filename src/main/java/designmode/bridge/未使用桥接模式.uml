@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1145.0" y="162.0">designmode.bridge.ShenZhouLaptop</node>
+    <node x="574.0" y="0.0">designmode.bridge.Computer</node>
+    <node x="550.0" y="162.0">designmode.bridge.ShenZhouDesktop</node>
+    <node x="724.0" y="162.0">designmode.bridge.DellDesktop</node>
+    <node x="391.0" y="162.0">designmode.bridge.LenovoDesktop</node>
+    <node x="158.0" y="81.0">designmode.bridge.Pad</node>
+    <node x="1015.0" y="81.0">designmode.bridge.Laptop</node>
+    <node x="259.0" y="162.0">designmode.bridge.LenovoPad</node>
+    <node x="578.5" y="81.0">designmode.bridge.Desktop</node>
+    <node x="0.0" y="162.0">designmode.bridge.ShenZhouPad</node>
+    <node x="147.0" y="162.0">designmode.bridge.DellPad</node>
+    <node x="994.0" y="162.0">designmode.bridge.LenovoLaptop</node>
+    <node x="863.0" y="162.0">designmode.bridge.DellLaptop</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="designmode.bridge.DellDesktop" target="designmode.bridge.Desktop">
+      <point x="0.0" y="-15.5" />
+      <point x="783.5" y="137.0" />
+      <point x="659.3333333333334" y="137.0" />
+      <point x="32.33333333333337" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.LenovoLaptop" target="designmode.bridge.Laptop">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.Desktop" target="designmode.bridge.Computer">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.ShenZhouLaptop" target="designmode.bridge.Laptop">
+      <point x="0.0" y="-15.5" />
+      <point x="1218.0" y="137.0" />
+      <point x="1089.1666666666667" y="137.0" />
+      <point x="29.666666666666742" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.DellLaptop" target="designmode.bridge.Laptop">
+      <point x="0.0" y="-15.5" />
+      <point x="918.5" y="137.0" />
+      <point x="1029.8333333333333" y="137.0" />
+      <point x="-29.666666666666742" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.ShenZhouDesktop" target="designmode.bridge.Desktop">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.ShenZhouPad" target="designmode.bridge.Pad">
+      <point x="0.0" y="-15.5" />
+      <point x="63.5" y="137.0" />
+      <point x="169.66666666666663" y="137.0" />
+      <point x="-23.33333333333337" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.DellPad" target="designmode.bridge.Pad">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.Pad" target="designmode.bridge.Computer">
+      <point x="0.0" y="-15.5" />
+      <point x="193.0" y="56.0" />
+      <point x="591.6666666666666" y="56.0" />
+      <point x="-35.33333333333337" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.LenovoDesktop" target="designmode.bridge.Desktop">
+      <point x="0.0" y="-15.5" />
+      <point x="460.5" y="137.0" />
+      <point x="594.6666666666666" y="137.0" />
+      <point x="-32.33333333333334" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.Laptop" target="designmode.bridge.Computer">
+      <point x="0.0" y="-15.5" />
+      <point x="1059.5" y="56.0" />
+      <point x="662.3333333333334" y="56.0" />
+      <point x="35.33333333333337" y="15.5" />
+    </edge>
+    <edge source="designmode.bridge.LenovoPad" target="designmode.bridge.Pad">
+      <point x="0.0" y="-15.5" />
+      <point x="315.0" y="137.0" />
+      <point x="216.33333333333337" y="137.0" />
+      <point x="23.33333333333337" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8093058733790999" x="645.5" y="96.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

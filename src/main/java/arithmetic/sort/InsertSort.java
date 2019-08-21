@@ -14,6 +14,7 @@ public class InsertSort extends Sort{
                   swap(arr,j,j-1);
             }
         }
+        System.out.println("比较的次数："+count);
     }
 
     @Test
