@@ -13,11 +13,19 @@ import java.nio.channels.FileChannel;
  */
 public class Test {
 
-        public static String TEMP_DIR = "temp";
+        public static String TEMP_DIR = "d://video/jia2";
         public static int connTimeout = 30 * 60 * 1000;
         public static int readTimeout = 30 * 60 * 1000;
-        public static String s1 = "https://play.tomhd0.com/upload/2019-08-16/2dd773959d75456fe52f8a5e4dc16dc1/m3u8/index.m3u8";
+        public static String s1 = "hhttps://www.safjierwe.com/upload/2019-01-31/f30650bcebd1f597f9017ab8babafaaa/m3u8/index.m3u8";
 
+        @org.junit.Test
+        public void test(){
+            File tfile = new File(TEMP_DIR);
+            if (!tfile.exists()) {
+                tfile.mkdirs();
+            }
+            System.out.println("create success");
+        }
         public static void main(String[] args) {
             File tfile = new File(TEMP_DIR);
             if (!tfile.exists()) {
@@ -60,7 +68,13 @@ public class Test {
                 }
             });
             System.out.println("文件下载完毕!");
-            mergeFiles(tfile.listFiles(), "test.ts");
+//            for ()
+//            mergeFiles(tfile.listFiles(), "test.ts");
+            System.out.println(tfile.listFiles());
+            for (File file:tfile.listFiles()){
+                System.out.println(file.getName());
+            }
+//            mergeFiles(tfile.listFiles(), "d://video/jia2/av.mp4");
         }
 
 
