@@ -1,0 +1,18 @@
+@startuml
+
+interface ICar
+class Car
+class FlyCar
+class SuperCar
+class WaterCar
+class AICar
+
+ICar<|-Car
+ICar<|-SuperCar
+SuperCar<|-AICar
+SuperCar<|-FlyCar
+SuperCar<|-WaterCar
+Car<..SuperCar
+
+
+@enduml

@@ -6,7 +6,11 @@
 
     <groupId>com.hsc.learnRoot</groupId>
     <artifactId>hsc-learnRoot</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>hsc-util</module>
+    </modules>
 
 
     <dependencies>
@@ -39,6 +43,11 @@
             <groupId>commons-pool</groupId>
             <artifactId>commons-pool</artifactId>
             <version>1.5.4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.10</version>
         </dependency>
     </dependencies>
 

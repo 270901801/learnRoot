@@ -1,0 +1,24 @@
+@startuml
+
+class Client
+class AirShip
+interface AirShipDirector{
+directAirShip();
+}
+class SxtAirShipDirector{
+airShipBuilder
+}
+interface AirShipBuilder
+class SxtAirShipBuilder{
+
+}
+
+AirShip<..Client
+AirShipDirector<..Client
+AirShipBuilder<..Client
+AirShipDirector<|-SxtAirShipDirector
+AirShipBuilder<|-SxtAirShipBuilder
+AirShipBuilder<..SxtAirShipDirector
+
+
+@enduml

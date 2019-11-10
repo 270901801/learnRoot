@@ -1,0 +1,20 @@
+@startuml
+
+
+class Client
+interface Star
+
+RealStar<..ProxyStar
+ProxyStar<..Client
+Star<|-ProxyStar
+Star<|- RealStar
+
+
+class ProxyStar{
+confer();..
+}
+class RealStar{
+confer();..
+}
+
+@enduml

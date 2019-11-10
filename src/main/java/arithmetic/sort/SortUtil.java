@@ -15,7 +15,7 @@ public class SortUtil {
      */
     public static int[] luan(){
         Random random=new Random();
-        int arr[]=new int[100000];
+        int arr[]=new int[10];
         for (int i=0;i<arr.length;i++){
             arr[i]=i;
         }

@@ -1,0 +1,15 @@
+@startuml
+
+interface Star
+class StarHandler
+class RealStar
+class Client
+abstract class ProxyStar
+
+StarHandler<..Client
+Star<..Client
+Star<|- RealStar
+Star<|-ProxyStar
+StarHandler<..ProxyStar
+
+@enduml
