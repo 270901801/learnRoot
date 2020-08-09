@@ -11,14 +11,11 @@ package designmode.creation.singleton;
 public enum SingletonDemo5 {
     /**
      * 定义一个枚举的元素，他就代表了Singleton的一个实例。
-     *
      */
     INSTANCE;
-
     public void singletonOperation(){
         //功能处理
     }
-
     public static void main(String[] args) {
         SingletonDemo5 sd=SingletonDemo5.INSTANCE;
         SingletonDemo5 sd2=SingletonDemo5.INSTANCE;

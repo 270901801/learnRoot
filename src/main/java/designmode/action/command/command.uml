@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="233.0">designmode.action.command.Client</node>
+    <node x="0.0" y="157.0">designmode.action.command.Receiver</node>
+    <node x="0.0" y="81.0">designmode.action.command.ConcreteCommand</node>
+    <node x="26.0" y="0.0">designmode.action.command.Command</node>
+    <node x="142.0" y="157.0">designmode.action.command.Invoke</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="designmode.action.command.ConcreteCommand" target="designmode.action.command.Command">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

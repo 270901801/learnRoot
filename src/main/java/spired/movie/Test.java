@@ -16,7 +16,7 @@ public class Test {
         public static String TEMP_DIR = "d://video/jia2";
         public static int connTimeout = 30 * 60 * 1000;
         public static int readTimeout = 30 * 60 * 1000;
-        public static String s1 = "hhttps://www.safjierwe.com/upload/2019-01-31/f30650bcebd1f597f9017ab8babafaaa/m3u8/index.m3u8";
+        public static String s1 = "https://play.yljiankang365.com/upload/2020-03-12/ad3ebf9aa16c5afbc5017941ecd194c4/m3u8/index.m3u8";
 
         @org.junit.Test
         public void test(){

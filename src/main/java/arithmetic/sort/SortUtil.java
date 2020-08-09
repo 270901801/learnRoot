@@ -13,9 +13,9 @@ public class SortUtil {
      * 将1-1000数字打乱,并返回
      * @return
      */
-    public static int[] luan(){
+    public static int[] luan(int x){
         Random random=new Random();
-        int arr[]=new int[10];
+        int arr[]=new int[x];
         for (int i=0;i<arr.length;i++){
             arr[i]=i;
         }
@@ -31,9 +31,9 @@ public class SortUtil {
     }
     @Test
     public void test(){
-        print(luan());
+        print(luan(100));
     }
-    public void print(int []arr){
+    public static void print(int []arr){
         System.out.print("[");
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+",");

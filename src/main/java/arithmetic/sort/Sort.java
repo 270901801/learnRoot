@@ -8,7 +8,7 @@ import static arithmetic.sort.SortUtil.luan;
  */
 public abstract class Sort {
     public int count=0;
-    public int[] arr=luan();
+    public int[] arr=luan(100);
     public void sort(int [] arr){
 
     }

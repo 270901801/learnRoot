@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="233.0">designmode.structure.ProxyMode.dynmicProxy.Client</node>
+    <node x="72.25" y="0.0">designmode.structure.ProxyMode.dynmicProxy.Star</node>
+    <node x="0.0" y="81.0">designmode.structure.ProxyMode.dynmicProxy.RealStar</node>
+    <node x="0.0" y="157.0">designmode.structure.ProxyMode.dynmicProxy.StarHandler</node>
+    <node x="116.0" y="81.0">designmode.structure.ProxyMode.dynmicProxy.ProxyStar</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="designmode.structure.ProxyMode.dynmicProxy.ProxyStar" target="designmode.structure.ProxyMode.dynmicProxy.Star">
+      <point x="0.0" y="-15.5" />
+      <point x="167.5" y="56.0" />
+      <point x="125.5" y="56.0" />
+      <point x="17.75" y="15.5" />
+    </edge>
+    <edge source="designmode.structure.ProxyMode.dynmicProxy.RealStar" target="designmode.structure.ProxyMode.dynmicProxy.Star">
+      <point x="0.0" y="-15.5" />
+      <point x="48.0" y="56.0" />
+      <point x="90.0" y="56.0" />
+      <point x="-17.75" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

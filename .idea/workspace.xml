@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b2a7565-039a-4772-81f2-7249e3b8f9d4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learnRoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-doclet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/offer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/recursive/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/better/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/exercise/test001/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/exercise/test002/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/RadisSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/structure/Advanced/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/structure/basic/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/structure/basic/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/structure/basic/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/structure/sgg/DataStructure/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/chuangling/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/chuangling/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/kangbojia/ShowMeBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/kangbojia/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/kangbojia/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chunzhaoTest/xiecheng/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/chainOfResp/redeme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/iterator/ConcreteMyAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/iterator/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Finacial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/mediator/中介者模式.umr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/memento/EmpMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/ObserverA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/observer/观察者模式.umr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/BookedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/CheckedInState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/FreeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/HomeContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/state/状态模式.umr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/NewCustomerFewStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/NewCustomerManyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/OldCustomerFewStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/OldCustomerManyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/TestStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/strategy/策略模式.umr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/templeateMethod/BankTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/action/templeateMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/adapter/Adapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/adapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/composite/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designmode/structure/composite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/frame/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/java8/Lambda/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/java8/Other/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/java8/Stream/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/java8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/io/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/io/demo/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/lang/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/lang/annotation/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/lang/demo/LangUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/lang/reflect/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/net/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/nio/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/sql/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/concurrent/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/concurrent/atomic/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/util/concurrent/locks/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jvm/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/thread/note/.readme_images/d5a6aed1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaRoot/thread/note/.readme_images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/HasStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arithmetic/sort/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/BucketSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arithmetic/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arithmetic/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arithmetic/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arithmetic/sort/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arithmetic/sort/SortUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designmode/action/tt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designmode/creation/singleton/SingletonDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designmode/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designmode/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaRoot/jdkApiUse/LearnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/jdkApiUse/LearnString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaRoot/jdkApiUse/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaRoot/jdk/jdkApiUse/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaRoot/root/learnObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaRoot/root/learnObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaRoot/thread/note/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaRoot/thread/note/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spired/movie/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spired/movie/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp/Test01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hsc_learnRoot$Test08.ic" NAME="Test08 Coverage Results" MODIFIED="1585754712667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>temp.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Use Case" />
+        <option value="UML Component" />
+        <option value="Interface" />
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\codesware\Java\maven\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../codesware/Java/maven" />
+        <option name="userSettingsFile" value="D:\codesware\Java\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1arNmoYFzyG9pQJ2eZ1IFHYf3Aw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="StringBuil&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Calendar&#9;PSI&#9;JAVA://java.util.Calendar&#10;Arraylist&#9;FILE&#9;jar://D:/codesware/Java/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/util/ArrayList.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tomcat-analysis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\learnRoot\tomcat-analysis" />
+      <recent name="D:\code\idea\learnRoot\src\main\java\designmode\action\templeateMethod" />
+      <recent name="D:\code\idea\learnRoot\src\main\java\designmode\action\strategy" />
+      <recent name="D:\code\idea\learnRoot\src\main\java\designmode\action\state" />
+      <recent name="D:\code\idea\learnRoot\src\main\java\designmode\action\observer\observer2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.catalina.startup.Bootstrap" />
+      <module name="tomcat-analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.catalina.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmetic.sort.test.QuickSort" />
+      <module name="learnRoot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmetic.recursive.test" />
+      <module name="learnRoot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmetic.recursive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmetic.sort.test.test" />
+      <module name="learnRoot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZTest.testQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnRoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmetic.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arithmetic.structure" />
+      <option name="MAIN_CLASS_NAME" value="arithmetic.structure.ZTest" />
+      <option name="METHOD_NAME" value="testQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bootstrap" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="JUnit.ZTest.testQueue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.ZTest.testQueue" />
+        <item itemvalue="Application.Bootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b2a7565-039a-4772-81f2-7249e3b8f9d4" name="Default" comment="" />
+      <created>1571098167830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571098167830</updated>
+      <workItem from="1571098172755" duration="2020000" />
+      <workItem from="1571114588350" duration="1478000" />
+      <workItem from="1571613575441" duration="12000" />
+      <workItem from="1571613664365" duration="812000" />
+      <workItem from="1571614539045" duration="306000" />
+      <workItem from="1571614893743" duration="1076000" />
+      <workItem from="1571661064088" duration="2093000" />
+      <workItem from="1572013399955" duration="1016000" />
+      <workItem from="1572017604397" duration="682000" />
+      <workItem from="1572018342742" duration="1054000" />
+      <workItem from="1572019510201" duration="612000" />
+      <workItem from="1572322848088" duration="4236000" />
+      <workItem from="1572353281321" duration="4355000" />
+      <workItem from="1572430319261" duration="14059000" />
+      <workItem from="1572866442820" duration="15599000" />
+      <workItem from="1572883724158" duration="94000" />
+      <workItem from="1572930005695" duration="6513000" />
+      <workItem from="1573122085657" duration="15783000" />
+      <workItem from="1573375755907" duration="160000" />
+      <workItem from="1573733286737" duration="2111000" />
+      <workItem from="1573967689630" duration="1170000" />
+      <workItem from="1573969208690" duration="55000" />
+      <workItem from="1574264575381" duration="2579000" />
+      <workItem from="1574352295682" duration="12804000" />
+      <workItem from="1574562355191" duration="875000" />
+      <workItem from="1574690589118" duration="622000" />
+      <workItem from="1576388159567" duration="1449000" />
+      <workItem from="1577082755516" duration="258000" />
+      <workItem from="1581429815366" duration="1265000" />
+      <workItem from="1581435471158" duration="328000" />
+      <workItem from="1581441106776" duration="643000" />
+      <workItem from="1583495525195" duration="596000" />
+      <workItem from="1583923052464" duration="3352000" />
+      <workItem from="1583997155373" duration="1291000" />
+      <workItem from="1584174309708" duration="2417000" />
+      <workItem from="1584191462132" duration="9430000" />
+      <workItem from="1584525659086" duration="9114000" />
+      <workItem from="1584631885794" duration="58000" />
+      <workItem from="1585221214920" duration="7420000" />
+      <workItem from="1585636658613" duration="118000" />
+      <workItem from="1585740162561" duration="8530000" />
+      <workItem from="1585855497694" duration="5851000" />
+      <workItem from="1585924037859" duration="790000" />
+      <workItem from="1586082340431" duration="14869000" />
+      <workItem from="1587101595298" duration="3636000" />
+      <workItem from="1587129544338" duration="35000" />
+      <workItem from="1587346686643" duration="1187000" />
+      <workItem from="1587489915808" duration="45000" />
+      <workItem from="1587489999306" duration="11369000" />
+      <workItem from="1587529078219" duration="11040000" />
+      <workItem from="1587616200657" duration="1523000" />
+      <workItem from="1587656486118" duration="272000" />
+      <workItem from="1587657145722" duration="1118000" />
+      <workItem from="1587698056590" duration="285000" />
+      <workItem from="1587698371417" duration="27000" />
+      <workItem from="1587698428981" duration="396000" />
+      <workItem from="1587990374057" duration="1429000" />
+      <workItem from="1588060033434" duration="1261000" />
+      <workItem from="1589011889473" duration="1972000" />
+      <workItem from="1589094465337" duration="3091000" />
+      <workItem from="1589098290428" duration="6532000" />
+      <workItem from="1589534174341" duration="86000" />
+      <workItem from="1590850341036" duration="2477000" />
+      <workItem from="1590869793765" duration="153000" />
+      <workItem from="1590869994303" duration="2351000" />
+      <workItem from="1591713983848" duration="615000" />
+      <workItem from="1592014839599" duration="2327000" />
+      <workItem from="1592315461904" duration="2514000" />
+      <workItem from="1592365699484" duration="2444000" />
+      <workItem from="1592740349450" duration="1363000" />
+      <workItem from="1592907998218" duration="1668000" />
+      <workItem from="1592909910374" duration="699000" />
+      <workItem from="1592910669819" duration="596000" />
+      <workItem from="1593183112927" duration="3033000" />
+      <workItem from="1593437114642" duration="5495000" />
+    </task>
+    <task id="LOCAL-00001" summary="命令模式，外观模式，享元模式">
+      <created>1573369867667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573369867667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="命令模式，外观模式，享元模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="命令模式，外观模式，享元模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="259" key="#Custom_Plugin_Repositories" timestamp="1590852557649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="259" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1590852557649" />
+    <state x="275" y="4" key="#Plugins" timestamp="1589012041644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="4" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1589012041644" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1592015029139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1592015029139" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592402982001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592402982001" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1587490647854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587490647854" />
+    <state x="354" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590850659057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1590850659057" />
+    <state width="483" height="466" key="DebuggerActiveHint" timestamp="1589101659768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="483" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1589101659768" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1592909856282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592909856282" />
+    <state x="495" y="200" key="GrepConsoleSound" timestamp="1590907679337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="200" key="GrepConsoleSound/0.0.1366.728@0.0.1366.728" timestamp="1590907679337" />
+    <state width="1323" height="221" key="GridCell.Tab.0.bottom" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1285" height="275" key="GridCell.Tab.0.bottom/0.0.1328.956@0.0.1328.956" timestamp="1593184958683" />
+    <state width="1323" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state width="1323" height="221" key="GridCell.Tab.0.center" timestamp="1593513774555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1285" height="275" key="GridCell.Tab.0.center/0.0.1328.956@0.0.1328.956" timestamp="1593184958683" />
+    <state width="1323" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593513774555" />
+    <state width="1323" height="221" key="GridCell.Tab.0.left" timestamp="1593513774555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1285" height="275" key="GridCell.Tab.0.left/0.0.1328.956@0.0.1328.956" timestamp="1593184958683" />
+    <state width="1323" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593513774555" />
+    <state width="1323" height="221" key="GridCell.Tab.0.right" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1285" height="275" key="GridCell.Tab.0.right/0.0.1328.956@0.0.1328.956" timestamp="1593184958683" />
+    <state width="1323" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state width="1323" height="221" key="GridCell.Tab.1.bottom" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state width="1323" height="221" key="GridCell.Tab.1.center" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state width="1323" height="221" key="GridCell.Tab.1.left" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state width="1323" height="221" key="GridCell.Tab.1.right" timestamp="1593513774556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593513774556" />
+    <state x="374" y="0" key="MarkdownNavigator.PasteImageDialog" timestamp="1590869909614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="0" key="MarkdownNavigator.PasteImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1590869909614" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1592910063613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592910063613" />
+    <state width="626" height="726" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1592365572703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="626" height="726" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1366.728@0.0.1366.728" timestamp="1592365572703" />
+    <state x="523" y="33" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592402902783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="523" y="33" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1592402902783" />
+    <state width="502" height="352" key="documentation.popup.size" timestamp="1591216092022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="502" height="352" key="documentation.popup.size/0.0.1366.728@0.0.1366.728" timestamp="1591216092022" />
+    <state x="384" y="98" width="598" height="532" key="find.popup" timestamp="1589100416758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="98" width="598" height="532" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589100416758" />
+    <state x="57" y="0" key="new project wizard" timestamp="1592744516865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592744516865" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592401953349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592401953349" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1592908618504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592908618504" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/temp/Test04.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/temp/Test06.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/temp/Test06.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arithmetic/sort/QuickSort.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arithmetic/offer/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arithmetic/offer/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chunzhaoTest/kangbojia/test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chunzhaoTest/kangbojia/test.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaRoot/javaVersion/java8/Lambda/index.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arithmetic/recursive/test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arithmetic/recursive/test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
